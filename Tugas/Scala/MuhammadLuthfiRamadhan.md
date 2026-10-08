@@ -8,11 +8,11 @@
 
 | Data | Keterangan |
 | :--- | :--- |
-| **Nama Lengkap** | (Isi nama lengkapmu) |
-| **Gugus** | (Contoh: JavaScript / Python / Dart) |
-| **Akun GitHub** | https://github.com/username-kamu |
-| **Akun Instagram** | @username_kamu |
-| **Profil LinkedIn** | https://linkedin.com/in/username-kamu |
+| **Nama Lengkap** | Muhammad Luthfi Ramadhan |
+| **Gugus** | Scala |
+| **Akun GitHub** | https://github.com/archtttech0008 |
+| **Akun Instagram** | @ahmadl911 |
+| **Profil LinkedIn** | https://linkedin.com/in/luthfi-ramadhan-b42127442 |
 
 ---
 
@@ -20,7 +20,7 @@
 
 > Tuliskan cerita pengalamanmu selama mengikuti rangkaian kegiatan INFONIC 2026 secara naratif dalam bentuk paragraf di bawah ini.
 
-Tuliskan cerita pengalamanmu di sini...
+pengalaman saya selama mengikuti kegiatan infonic, sangat menyenangkan. Saya dapat belajar banyak hal baru bersama teman-teman saya dan dibimbing oleh kabim yang penuh usaha untuk keselamatan gugus.
 
 ---
 
@@ -28,4 +28,4 @@ Tuliskan cerita pengalamanmu di sini...
 
 > Tuliskan pesan dan kesanmu selama mengikuti kegiatan INFONIC 2026 serta harapan untuk masa depan.
 
-Tuliskan pesan dan kesanmu di sini...
+Semoga sehat selalu untuk panitia dan teman-teman saya dan saya berterimakasih khusus kepada dua kabim saya kak Dhani dan Kak Rafi.
